@@ -1,0 +1,15 @@
+{
+  "name": "docker-node-app",
+  "version": "1.0.0",
+  "description": "Demonstration of NodeJS app on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Hitesh Aleriya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
